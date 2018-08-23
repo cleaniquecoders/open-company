@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.org/cleanique-coders/open-company.svg?branch=master)](https://travis-ci.org/cleanique-coders/open-company) [![Latest Stable Version](https://poser.pugx.org/cleanique-coders/open-company/v/stable)](https://packagist.org/packages/cleanique-coders/open-company) [![Total Downloads](https://poser.pugx.org/cleanique-coders/open-company/downloads)](https://packagist.org/packages/cleanique-coders/open-company) [![License](https://poser.pugx.org/cleanique-coders/open-company/license)](https://packagist.org/packages/cleanique-coders/open-company)
+[![Build Status](https://travis-ci.org/cleaniquecoders/open-company.svg?branch=master)](https://travis-ci.org/cleaniquecoders/open-company) [![Latest Stable Version](https://poser.pugx.org/cleaniquecoders/open-company/v/stable)](https://packagist.org/packages/cleaniquecoders/open-company) [![Total Downloads](https://poser.pugx.org/cleaniquecoders/open-company/downloads)](https://packagist.org/packages/cleaniquecoders/open-company) [![License](https://poser.pugx.org/cleaniquecoders/open-company/license)](https://packagist.org/packages/cleaniquecoders/open-company)
 
 ## About Your Package
 
@@ -7,10 +7,10 @@ Tell people about your package
 
 ## Installation
 
-1. In order to install `cleanique-coders/open-company` in your Laravel project, just run the *composer require* command from your terminal:
+1. In order to install `cleaniquecoders/open-company` in your Laravel project, just run the *composer require* command from your terminal:
 
 ```
-$ composer require cleanique-coders/open-company
+$ composer require cleaniquecoders/open-company
 ```
 
 2. Then in your `config/app.php` add the following to the providers array:
@@ -37,7 +37,7 @@ $ vendor/bin/phpunit  --testdox --verbose
 
 ## Contributing
 
-Thank you for considering contributing to the `cleanique-coders/open-company`!
+Thank you for considering contributing to the `cleaniquecoders/open-company`!
 
 ### Bug Reports
 
@@ -49,7 +49,7 @@ Remember, bug reports are created in the hope that others with the same problem 
 
 ## Coding Style
 
-`cleanique-coders/open-company` follows the PSR-2 coding standard and the PSR-4 autoloading standard. 
+`cleaniquecoders/open-company` follows the PSR-2 coding standard and the PSR-4 autoloading standard. 
 
 You may use PHP CS Fixer in order to keep things standardised. PHP CS Fixer configuration can be found in `.php_cs`.
 
